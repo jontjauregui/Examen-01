@@ -1,0 +1,10 @@
+C:\Users\Jonathan\source\repos\examen 1\examen 1\bin\Debug\examen 1.exe.config
+C:\Users\Jonathan\source\repos\examen 1\examen 1\bin\Debug\examen 1.exe
+C:\Users\Jonathan\source\repos\examen 1\examen 1\bin\Debug\examen 1.pdb
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen 1.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen_1.Form1.resources
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen_1.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen 1.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen 1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen 1.exe
+C:\Users\Jonathan\source\repos\examen 1\examen 1\obj\Debug\examen 1.pdb
